@@ -432,9 +432,9 @@ line-height: 1.5;
 }
 
 .card img {
-  align-content: left;
-  max-width: 400px;
-  height: 400px;
+  align-items:left;
+  max-width: 200px;
+  height: 200px;
   margin-right: 0px;
   border-radius: 5px;
 }
